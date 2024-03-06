@@ -1,0 +1,7 @@
+#bot-con {
+    background-color: blueviolet; /* TEMP */
+    height: 5vh; /* TEMP */
+
+    position: relative;
+    z-index: 3;
+}

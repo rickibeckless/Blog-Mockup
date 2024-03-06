@@ -1,0 +1,27 @@
+#top-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vh 1vw;
+    position: sticky;
+    top: 0;
+    left: 0;
+    height: 6vh;
+
+    z-index: 3;
+
+    background-color: blueviolet; /* TEMP */
+}
+
+#top-nav {
+    display: flex;
+    gap: 2vw;
+
+    background-color: black; /* TEMP */
+}
+
+.top-nav-links {
+    color: brown; /* TEMP */
+    text-decoration: none;
+}
